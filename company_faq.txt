@@ -1,0 +1,155 @@
+NimbusCart Customer Support FAQ
+================================
+Welcome to NimbusCart, your one-stop online marketplace for electronics, home
+goods, and lifestyle products. This document answers the most common
+questions our customers ask. Please read the relevant section carefully
+before contacting support.
+
+1. REFUND POLICY
+-----------------
+NimbusCart offers a 30-day return window from the date of delivery for most
+products. To be eligible for a refund, items must be unused, in their
+original packaging, and accompanied by the original invoice.
+
+Refund timelines depend on the payment method used at checkout:
+- Credit or debit card payments are refunded within 5-7 business days after
+  the returned item passes quality inspection at our warehouse.
+- UPI and net banking refunds are processed within 3-5 business days.
+- Wallet payments (NimbusCart Wallet) are refunded instantly upon approval.
+- Cash on Delivery (COD) orders are refunded via bank transfer within 7-10
+  business days, since we need to collect the customer's bank details first.
+
+Certain categories are non-refundable, including innerwear, perishable
+goods, customized products, and digital gift cards. Products marked
+"Final Sale" on the product page are also excluded from the refund policy.
+
+If a product arrives damaged or defective, customers can request a full
+refund or a free replacement within 48 hours of delivery, no questions
+asked. Please attach photos of the damaged item when raising the request
+so our quality team can process it faster.
+
+Refund requests can be raised from the "My Orders" section of the app or
+website by selecting the order and clicking "Request Refund."
+
+2. DELIVERY TIMELINES
+----------------------
+Standard delivery timelines vary by location:
+- Metro cities (Delhi, Mumbai, Bangalore, Hyderabad, Chennai, Kolkata,
+  Pune): 2-3 business days.
+- Tier 2 cities: 4-5 business days.
+- Remote or rural areas: 6-8 business days.
+
+Express delivery is available for select pin codes and select products,
+offering next-day delivery for an additional fee. Express eligibility is
+shown on the product page before checkout.
+
+Order tracking is available in real time through the "Track Order" section
+once the order has been shipped. Customers will also receive SMS and email
+updates at each stage: order confirmed, shipped, out for delivery, and
+delivered.
+
+Delays may occur during festive seasons, extreme weather conditions, or due
+to regional logistics disruptions. In such cases, NimbusCart will notify
+affected customers proactively via email and app notification.
+
+3. MEMBERSHIP BENEFITS
+------------------------
+NimbusCart offers three membership tiers: Silver, Gold, and Platinum.
+Membership is free to join but tiers are upgraded automatically based on
+annual spend, or customers can subscribe directly to NimbusCart Plus for
+instant tier upgrades.
+
+Silver Tier (default for all customers):
+- Standard shipping rates apply.
+- Access to seasonal sales.
+- Standard customer support during business hours.
+
+Gold Tier (unlocked after annual spend of INR 25,000 or NimbusCart Plus
+subscription):
+- Free standard shipping on all orders.
+- Early access to sales, 24 hours before Silver members.
+- Priority customer support with reduced wait times.
+- 5% cashback on NimbusCart Wallet for every purchase.
+
+Platinum Tier (unlocked after annual spend of INR 75,000 or NimbusCart Plus
+Premium subscription):
+- Free express shipping on all eligible orders.
+- Early access to sales, 48 hours before Silver members.
+- Dedicated premium customer support with a personal support agent and
+  average response time under 10 minutes.
+- 10% cashback on NimbusCart Wallet for every purchase.
+- Extended return window of 45 days instead of the standard 30 days.
+- Complimentary extended warranty on electronics purchases above INR 5,000.
+
+Membership tier is reviewed and updated quarterly based on rolling
+12-month spend.
+
+4. ACCOUNT CANCELLATION
+--------------------------
+Customers can cancel or deactivate their NimbusCart account at any time by
+going to Settings > Account > Deactivate Account. Deactivation is
+temporary and can be reversed by simply logging back in within 90 days.
+
+For permanent account deletion, customers must submit a request through
+the "Delete My Account" option, which requires email confirmation. Once
+confirmed, all personal data is permanently deleted within 30 days in
+accordance with our data retention policy, except for information we are
+legally required to retain for tax and accounting purposes (such as
+invoices), which is retained for 7 years as mandated by law.
+
+Before cancellation, customers should ensure there are no pending orders,
+active refund requests, or outstanding NimbusCart Wallet balances, as
+these cannot be recovered after account deletion. Any unused NimbusCart
+Plus subscription time is forfeited upon cancellation and is not eligible
+for a prorated refund.
+
+Accounts with active Platinum or Gold membership benefits, including
+pending cashback, must claim rewards before initiating deletion, as reward
+balances cannot be transferred or reissued after account closure.
+
+5. SUPPORT CONTACT HOURS
+---------------------------
+General customer support is available through chat, email, and phone
+during the following hours:
+- Monday to Saturday: 9:00 AM to 9:00 PM (local time)
+- Sunday: 10:00 AM to 6:00 PM (local time)
+- Support is closed on national public holidays, with a reduced-hours team
+  handling urgent issues only.
+
+Email support (support@nimbuscart.example) typically responds within 24
+hours on business days.
+
+Live chat is the fastest way to reach us and is available directly within
+the app and website during support hours.
+
+Phone support is available for order-related emergencies and payment
+disputes only, and is prioritized for Gold and Platinum members.
+
+6. PREMIUM CUSTOMER SUPPORT RULES
+-------------------------------------
+Premium customer support is exclusively available to Gold and Platinum
+tier members and is designed to provide faster, more personalized
+assistance.
+
+Gold members receive:
+- Priority placement in the support queue, ahead of Silver members.
+- Access to live chat and phone support during all support hours.
+- Average first-response time of under 30 minutes.
+
+Platinum members receive:
+- A dedicated premium support line with 24/7 availability, including
+  holidays.
+- A named personal support agent assigned to handle recurring issues.
+- Average first-response time of under 10 minutes.
+- Escalation privileges, meaning any unresolved issue is automatically
+  escalated to a senior support specialist after 2 hours.
+- Proactive order monitoring, where the support team reaches out
+  automatically if a Platinum member's order is delayed or at risk of
+  delay, rather than waiting for the customer to ask.
+
+Silver members can access premium support features temporarily by
+purchasing a one-time "Priority Support Pass," valid for 30 days from
+purchase.
+
+For any questions not covered in this document, please reach out to our
+support team through the channels listed above.
